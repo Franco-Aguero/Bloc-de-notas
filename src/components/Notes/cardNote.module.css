@@ -1,0 +1,35 @@
+.container{
+    border: 2px solid black;
+    height: 4rem;
+    width: 90%;
+    border-radius: 25px;
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.padher{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+#titl{
+    margin-left: 40%;
+    margin-bottom: 2%;
+    margin-top: 0.5%;
+    color: #dacec5;
+}
+#data{
+    width: 80%;
+    font-size: 0.8rem;
+    color: #f9d384;
+}
+
+a:Link{
+    text-decoration: none;
+}

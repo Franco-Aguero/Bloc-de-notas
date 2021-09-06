@@ -1,0 +1,45 @@
+.container{
+    background-color: #cdad32;
+    position: relative;
+    display: flex;
+    align-items: center;
+    /* margin-left: 8rem;
+    margin-top: 2rem; *//* Esto despues LO SACO, AL DE ARRIBA TAMBIEN */
+    width: 13rem;
+    height: 2rem;
+    border-radius: 20px;
+
+}
+
+#inp{
+    position: absolute;
+    width: 8.5rem;
+    height: 1.2rem;
+    left: 22px;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+#btn{
+    position: absolute;
+    right: 4px;
+    border: none;
+    border-radius: 999px;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background: #cdad32;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: #f2cc37;
+}
+
+#img{
+    width: 1.3rem;
+}
+
+/* <<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>> */
+
+
