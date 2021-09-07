@@ -8,7 +8,7 @@ En este caso el usuario guarda notas de poemas.
 </p>
 
 
-<h2><u>Esta aplicaccion cuenta con</u></h2>
+<h2><u>Esta aplicación cuenta con</u></h2>
 <br/>
 
 <p style="font-size:1.3rem">El home, donde el usuario encontrara sus notas.</p>
